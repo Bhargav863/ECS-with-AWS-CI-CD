@@ -2,10 +2,6 @@ version: 0.2
 
 env:
   variables:
-    AWS_ACCOUNT_ID: "version: 0.2
-
-env:
-  variables:
     AWS_ACCOUNT_ID: "206193621696"
     REPOSITORY_NAME: "website"
     CONTAINER_NAME: "website"
